@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/0001-two-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -47,4 +48,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinav3105/DSAProblemsLeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
